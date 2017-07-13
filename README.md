@@ -1,4 +1,4 @@
-# Palette_Encryption
+# Palette Encryption Standard
 Palette principle, encryption and decryption
 
 # Principle
